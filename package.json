@@ -4,7 +4,9 @@
   "description": "invisible accessment",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "start": "node src/weather.js",
+    "test": "jest",
+    "dev": "nodemon --exec src/weather.js"
   },
   "repository": {
     "type": "git",
