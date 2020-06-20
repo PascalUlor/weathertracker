@@ -1,0 +1,19 @@
+{
+  "name": "weathertracker",
+  "version": "1.0.0",
+  "description": "invisible accessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PascalUlor/weathertracker.git"
+  },
+  "author": "pascal ulor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PascalUlor/weathertracker/issues"
+  },
+  "homepage": "https://github.com/PascalUlor/weathertracker#readme"
+}
