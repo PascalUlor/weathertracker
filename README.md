@@ -1,5 +1,5 @@
 **Weather Tracker**
-These are solutions to the invisible-technologies pre-assement for the Software Engineering role. This is Weather Tracking console app that logs the weather and current time of the array of locations parsed through the terminal
+This is Weather Tracking console app that logs the weather and current time of the array of locations parsed through the terminal
 
 ## Getting Started
 The application can be cloned from github.com.
