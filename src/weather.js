@@ -46,6 +46,5 @@ const getWeather = (arg) => {
 
 getWeather(data);
 
-console.log(getWeather(data))
 
 module.exports = getWeather;
